@@ -1,7 +1,7 @@
 streamlit-drawable-canvas==0.9.0
 Pillow
 numpy
-opencv
+opencv-python
 opencv-python-headless
 python-dotenv
 requests
